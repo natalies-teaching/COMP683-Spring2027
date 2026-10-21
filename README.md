@@ -9,7 +9,7 @@ Instructor: Natalie Stanley
 
 Email: natalies@cs.unc.edu
 
-Time and Place: Monday/Wednesday 9:05-10:20am in Fred Brooks 007 (FB007). 
+Time and Place: Monday/Wednesday 11:15-12:30am in Sitterson 014 (SN014). 
 
 Info and Attributes: This is a 3-credit full-semester course and fulfills the 'Applications' category for CS students. It is a lecture-style class (I will teach the lectures), includes two coding-based homeworks, 2 journal club style discussions, and a course project. 
 
