@@ -78,11 +78,11 @@ Modern high-throughput technologies enable unparalleled molecular insights into 
 ## Topics in computational neuroimmunology
 * **Introduction to the immune system in your brain**
   * **Topics:** Intro to microglia, neuroinflammation, neurodegeneration, and key technologies used to study brain/immune cross-talk
-  * **Reading:** [Boosting peripheral immunity to fight neurodegeneration in the brain](https://www.sciencedirect.com/science/article/pii/S009286741630410X](https://pubmed.ncbi.nlm.nih.gov/39358094/)
+  * **Reading:** [Boosting peripheral immunity to fight neurodegeneration in the brain](https://pubmed.ncbi.nlm.nih.gov/39358094/)
 
 * **Paralellized journal club 1: CD8 T cells and cognitive function**
   * **Topics:** Boosting CD8 T cells for cognitive decline  
-  * **Reading:** [Aged circulating CD8+ T cells and their secreted factors drive cognitive decline](https://www.nature.com/articles/nbt.1991](https://www.cell.com/immunity/fulltext/S1074-7613(26)00176-7)
+  * **Reading:** [Aged circulating CD8+ T cells and their secreted factors drive cognitive decline](https://www.cell.com/immunity/fulltext/S1074-7613(26)00176-7)
 
 --
 
