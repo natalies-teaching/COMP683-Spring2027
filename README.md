@@ -70,9 +70,9 @@ Modern high-throughput technologies enable unparalleled molecular insights into 
   * **Topics:** Single-cell sketching
   * **Reading:** [GeoSketch](https://www.sciencedirect.com/science/article/pii/S2405471219301528), [Hopper](https://academic.oup.com/bioinformatics/article/36/Supplement_1/i236/5870483)
 * **Identifying outcome-linked pathways and signatures**
-*  **Topics:** Scoring outcome associated cells with enrichment of gene regulatory networks
-*  **Reading:** [Augur](https://www.nature.com/articles/s41587-020-0605-1) and [AUCell](https://www.nature.com/articles/nmeth.4463)
-
+  *  **Topics:** Scoring outcome associated cells with enrichment of gene regulatory networks
+  *  **Reading:** [Augur](https://www.nature.com/articles/s41587-020-0605-1) and [AUCell](https://www.nature.com/articles/nmeth.4463)
+  
 ---
 
 ## Topics in computational neuroimmunology
