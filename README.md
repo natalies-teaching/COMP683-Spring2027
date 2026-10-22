@@ -24,7 +24,7 @@ Summary of FAQs:
 * This course is appropriate for anyone interested in the topic. Strong programming in Python or R is needed.
 * This course is appropriate for advanced undergrads and grad students across departments.
 * This course fulfills the applications category breadth requirement for CS students.
-* These are two homework assignments (practical, coding-based on single-cell data) and a course project
+* These are two homework assignments (practical, coding-based on single-cell data) and 3 journal club discussions during the semester
 * Any other questions I can answer? Please email natalies@cs.unc.edu  
 
 # Topics and Course Schedule
