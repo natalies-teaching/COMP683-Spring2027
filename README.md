@@ -138,7 +138,7 @@ Summary of FAQs:
 
 ## Multiomics Data Integration
 * **Graph-Based Multiomics**
-  * **Topics:** Graph-based multiomics data integration *(Journal club schedule available)*
+  * **Topics:** Graph-based multiomics data integration 
   * **Reading:** [Subspace Merging on Grassmann Manifold](https://academic.oup.com/bioinformatics/article/35/10/1653/5134062?login=true), [Mashup](https://www.cell.com/cell-systems/fulltext/S2405-4712(16)30360-X?)
 
 * **multiomics data integration via factor analysis**
