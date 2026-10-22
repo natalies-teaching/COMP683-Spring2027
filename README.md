@@ -44,20 +44,19 @@ Modern high-throughput technologies enable unparalleled molecular insights into 
 
 * **Graph Embeddings & Partitioning**
   * **Topics:** Probabilistic graph partitioning and graph embedding
-  * **Reading:** [Node2Vec](https://dl.acm.org/doi/pdf/10.1145/2939672.2939754?casa_token=vQTboPUL6qIAAAAA:XQsAUtXd4MyWfj1ClUBw8FKhuPbpqO-aE2d7EDs5iX9-jJZP9BuxDbKUjg3CM69YKHALjCAKJtJx), [SBM - spatial transcriptomics](https://pmc.ncbi.nlm.nih.gov/articles/PMC8630903/)
-
+  * **Reading:** [Node2Vec](https://dl.acm.org/doi/pdf/10.1145/2939672.2939754?casa_token=vQTboPUL6qIAAAAA:XQsAUtXd4MyWfj1ClUBw8FKhuPbpqO-aE2d7EDs5iX9-jJZP9BuxDbKUjg3CM69YKHALjCAKJtJx)
 ---
 
 ## Linking single-cells to outcomes and phenotypes
 * **Single-Cell Data Structures**
-  * **Topics:** Finish graph embedding; intro to single-cell data structure
+  * **Topics:** Single-cell data structure and technologies
   * **Reading:** [Single-Cells, Many Features](https://www.sciencedirect.com/science/article/pii/S009286741630410X)
 
 * **Cell Population Discovery**
-  * **Topics:** Automated cell population discovery and linking single-cell information to outcome *(Journal club group signup by Feb 9)*
+  * **Topics:** Automated cell population discovery and linking single-cell information to outcome 
   * **Reading:** [SPADE](https://www.nature.com/articles/nbt.1991), [CITRUS](https://www.pnas.org/doi/abs/10.1073/pnas.1408792111), [PhenoGraph](https://www.sciencedirect.com/science/article/pii/S0092867415006376)
 
-* **Data Cleaning & Imputation**
+* **Imputation for single-cell RNA-sequencing**
   * **Topics:** Imputation and drop-out in single-cell
   * **Reading:** [MAGIC for dropout and imputation](https://www.cell.com/cell/pdf/S0092-8674(18)30724-4.pdf)
 
@@ -66,7 +65,7 @@ Modern high-throughput technologies enable unparalleled molecular insights into 
   * **Reading:** [PHATE](https://www.nature.com/articles/s41587-019-0336-3)
 
 * **Graph Signal Processing & Sketching**
-  * **Topics:** Finish data augmentation, Graph Signal Processing background *(Homework 1 due March 4)*
+  * **Topics:** Finish data augmentation, Graph Signal Processing background 
   * **Reading:** [GSP review](https://arxiv.org/abs/2007.16061), [Data augmentation for single-cell](https://papers.nips.cc/paper_files/paper/2018/hash/c8ed21db4f678f3b13b9d5ee16489088-Abstract.html)
 
 * **Single-Cell Sketching & Scalability**
