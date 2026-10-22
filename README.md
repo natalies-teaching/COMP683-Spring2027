@@ -100,8 +100,12 @@ Modern high-throughput technologies enable unparalleled molecular insights into 
   * **Reading:** [Contrastive PCA](https://www.nature.com/articles/s41467-018-04608-8), [Conos](https://www.nature.com/articles/s41592-019-0466-z)
 
 * **Deconvolution for bulk RNA-sequencing : estimating cell-type-specific effects**
-* **Topics:** Deconvolution and tensor component analysis
-* **Reading:** [Unico](https://pubmed.ncbi.nlm.nih.gov/41044605/)
+  * **Topics:** Deconvolution and tensor component analysis
+  * **Reading:** [Unico](https://pubmed.ncbi.nlm.nih.gov/41044605/)
+
+* **Transcriptomic aging clocks**
+  * **Topics:** Aging clocks, Building cell-type-specific aging clocks from single-cell modalities,
+  * **Reading:** [Cell-type-specific aging clocks](https://www.nature.com/articles/s43587-022-00335-4), [Human PBMC aging clock](https://www.science.org/doi/10.1126/sciadv.abq7599)
 
 ---
 
@@ -114,6 +118,9 @@ Modern high-throughput technologies enable unparalleled molecular insights into 
   * **Topics:** Intro to spatial omics
   * **Reading:** [SpaGCN](https://www.nature.com/articles/s41592-021-01255-8)
 
+* **Paralellized journal club 2: Spatial analyses in brain aging**
+*   **Topics:** Spatial omics in brains and neurodegeneration
+*   **Reading:** [Integrated multiomodal atlas of Alzheimer's disease](https://www.nature.com/articles/s41593-024-01774-5)
 
 ---
 
