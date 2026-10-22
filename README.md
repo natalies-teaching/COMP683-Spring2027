@@ -1,6 +1,6 @@
 # Comp683 Computational Biology, Spring 2027 
 <p>
-  <img src="https://github.com/natalies-teaching/Comp683-Spring2026/blob/main/comp683_2026.png" width="350" />
+  <img src="https://github.com/natalies-teaching/Comp683-Spring2026/blob/main/comp683_2026.png](https://github.com/natalies-teaching/COMP683-Spring2027/blob/main/compbio-2027.png" width="350" />
 </p>
 
 ## Details
