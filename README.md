@@ -70,7 +70,7 @@ Modern high-throughput technologies enable unparalleled molecular insights into 
   * **Topics:** Single-cell sketching
   * **Reading:** [GeoSketch](https://www.sciencedirect.com/science/article/pii/S2405471219301528), [Hopper](https://academic.oup.com/bioinformatics/article/36/Supplement_1/i236/5870483)
 * **Identifying outcome-linked pathways and signatures**
-*  **Topics:** Score cells with enrichment of gene regulatory networks
+*  **Topics:** Scoring outcome associated cells with enrichment of gene regulatory networks
 *  **Reading:** [Augur](https://www.nature.com/articles/s41587-020-0605-1) and [AUCell](https://www.nature.com/articles/nmeth.4463)
 
 ---
@@ -83,6 +83,10 @@ Modern high-throughput technologies enable unparalleled molecular insights into 
 * **Paralellized journal club 1: CD8 T cells and cognitive function**
   * **Topics:** Boosting CD8 T cells for cognitive decline  
   * **Reading:** [Aged circulating CD8+ T cells and their secreted factors drive cognitive decline](https://www.cell.com/immunity/fulltext/S1074-7613(26)00176-7)
+
+* **Transcriptomic aging clocks**
+  * **Topics:** Aging clocks, Building cell-type-specific aging clocks from single-cell modalities,
+  * **Reading:** [Cell-type-specific aging clocks](https://www.nature.com/articles/s43587-022-00335-4), [Human PBMC aging clock](https://www.science.org/doi/10.1126/sciadv.abq7599)
 
 ---
 
@@ -103,9 +107,9 @@ Modern high-throughput technologies enable unparalleled molecular insights into 
   * **Topics:** Deconvolution and tensor component analysis
   * **Reading:** [Unico](https://pubmed.ncbi.nlm.nih.gov/41044605/)
 
-* **Transcriptomic aging clocks**
-  * **Topics:** Aging clocks, Building cell-type-specific aging clocks from single-cell modalities,
-  * **Reading:** [Cell-type-specific aging clocks](https://www.nature.com/articles/s43587-022-00335-4), [Human PBMC aging clock](https://www.science.org/doi/10.1126/sciadv.abq7599)
+* **Parallelized journal club 2: zooming in on cell-type-specific effects in ALS**
+  *   **Topics:** How to nominate key cell-types to target therapeutically in neurodegenerative diseasses
+  *   **Reading:** [Immune infiltration and reprogramming in ALS](https://www.nature.com/articles/s41593-026-02300-5)
 
 ---
 
@@ -131,6 +135,7 @@ Modern high-throughput technologies enable unparalleled molecular insights into 
 
 * **Factor Analysis for Integration**
   * **Topics:** Multiomics data integration
+  * **Reading:** [MOFA](https://www.embopress.org/doi/full/10.15252/msb.20178124)
 
 ## Syllabus and Course Structure
 Please see the following link for a syllabus and information about key dates, homework, and the course project. [[Syllabus 2027-coming soon]()]. Note that this is primarily a lecture-based course. 
