@@ -121,7 +121,7 @@ Summary of FAQs:
 
 ---
 
-## Theme 4: Spatial Omics & Graph Neural Networks
+## Spatial Omics & Graph Neural Networks
 * **Graph Neural Networks in Spatial Contexts**
   * **Topics:** Graph neural networks vs. label propagation
   * **Reading:** [Correct and Smooth](https://arxiv.org/abs/2010.13993), [GNN for Spatial Context](https://www.biorxiv.org/content/10.1101/2022.12.08.519537v1)
@@ -136,7 +136,7 @@ Summary of FAQs:
 
 ---
 
-## Theme 5: Multiomics Data Integration
+## Multiomics Data Integration
 * **Graph-Based Multiomics**
   * **Topics:** Graph-based multiomics data integration *(Journal club schedule available)*
   * **Reading:** [Subspace Merging on Grassmann Manifold](https://academic.oup.com/bioinformatics/article/35/10/1653/5134062?login=true), [Mashup](https://www.cell.com/cell-systems/fulltext/S2405-4712(16)30360-X?)
