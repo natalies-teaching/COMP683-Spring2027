@@ -16,7 +16,7 @@ Info and Attributes: This is a 3-credit full-semester course and fulfills the 'A
 Office Hours: TBD  
 
 ## Description
-This course focuses on the computational approaches used to study data generated in biomedical application. We will specifically focus on single-cell, multiomics, and spatial modalities, while maintaining a focused application area in computational neuroimmunology. We will cover the fundamentals of modern computational biology research, from the ground up, starting from matrix rank to the current latest topics in single-cell analysis and multiomics data integration. Our goal is to unpack the most commonly used methods in computational biology to understand how each part works computationally. This course is being updated and revamped this year from previous offerings to include new topics, such as, single-cell foundation models, bulk transcriptomic deconvolution, designing immunotherapies for neurodegenerative diseases, and computational aging clocks (to name a few!)
+This course focuses on the computational approaches used to study data generated in biomedical application. We will specifically focus on single-cell, multiomics, and spatial modalities, while maintaining a focused application area in computational neuroimmunology. We will cover the fundamentals of modern computational biology research, from the ground up, starting from matrix rank to the current latest topics in single-cell analysis and multiomics data integration. Our goal is to unpack the most commonly used methods in computational biology to understand how each part works computationally. This course is being updated and revamped this year from previous offerings to include new topics, such as, single-cell foundation models, cell-cell communication, bulk transcriptomic deconvolution, designing immunotherapies for neurodegenerative diseases, and computational aging clocks (to name a few!)
 
 Summary of FAQs: 
 
@@ -55,12 +55,8 @@ Summary of FAQs:
   * **Reading:** [SPADE](https://www.nature.com/articles/nbt.1991), [CITRUS](https://www.pnas.org/doi/abs/10.1073/pnas.1408792111), [PhenoGraph](https://www.sciencedirect.com/science/article/pii/S0092867415006376)
 
 * **Imputation for single-cell RNA-sequencing**
-  * **Topics:** Imputation and drop-out in single-cell
-  * **Reading:** [MAGIC for dropout and imputation](https://www.cell.com/cell/pdf/S0092-8674(18)30724-4.pdf)
-
-* **Dimensionality Reduction & Data Augmentation for single-cell analysis**
-  * **Topics:** Dimension reduction for single-cell visualization + single-cell data augmentation
-  * **Reading:** [PHATE](https://www.nature.com/articles/s41587-019-0336-3)
+  * **Topics:** Imputation and drop-out in single-cell, single-cell data augementation and visualization
+  * **Reading:** [MAGIC for dropout and imputation](https://www.cell.com/cell/pdf/S0092-8674(18)30724-4.pdf) , [PHATE](https://www.nature.com/articles/s41587-019-0336-3)
 
 * **Graph Signal Processing & Sketching**
   * **Topics:** Finish data augmentation, Graph Signal Processing background 
@@ -87,10 +83,18 @@ Summary of FAQs:
 * **Paralellized journal club 1: CD8 T cells and cognitive function**
   * **Topics:** Boosting CD8 T cells for cognitive decline  
   * **Reading:** [Aged circulating CD8+ T cells and their secreted factors drive cognitive decline](https://www.cell.com/immunity/fulltext/S1074-7613(26)00176-7)
-
+ 
 * **Transcriptomic aging clocks**
   * **Topics:** Aging clocks, Building cell-type-specific aging clocks from single-cell modalities,
   * **Reading:** [Cell-type-specific aging clocks](https://www.nature.com/articles/s43587-022-00335-4), [Human PBMC aging clock](https://www.science.org/doi/10.1126/sciadv.abq7599)
+ 
+* **DNA methylation in aging**
+*   **Topics:** DNA methylation in aging and studying cell-type-specific effects
+*   **Reading:** [Long-read age](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.70084)
+ 
+* **Cell-cell communication**
+*  **Computational tools for cell-cell communication enrichment**
+*  **Reading:** [LIANA+: consensus tool for cell-cell communication](https://www-nature-com.libproxy.lib.unc.edu/articles/s41556-024-01469-w)
 
 ---
 
