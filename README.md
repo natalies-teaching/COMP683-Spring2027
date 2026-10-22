@@ -21,7 +21,7 @@ This course focuses on the computational approaches used to study data generated
 Summary of FAQs: 
 
 * You can take the course if you're missing pre-reqs. Just send me an email if you need help enrolling.
-* This course is appropriate for anyone interested in the topic. Strong programming in Python or R is needed.
+* This course is appropriate for anyone interested in the topic. Strong programming skills are the most important pre-req.
 * This course is appropriate for advanced undergrads and grad students across departments.
 * This course fulfills the applications category breadth requirement for CS students.
 * These are two homework assignments (practical, coding-based on single-cell data) and 3 journal club discussions during the semester
