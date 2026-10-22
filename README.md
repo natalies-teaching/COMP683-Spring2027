@@ -78,20 +78,20 @@ Modern high-throughput technologies enable unparalleled molecular insights into 
 
 ---
 
-## Theme 3: Differential Analysis & Integration
+## Theme 3: Differential expression and abundance analysis for single-cell modalities
 * **Differential Abundance Analysis**
   * **Topics:** Differential abundance analysis via graph signal processing
   * **Reading:** [MELD](https://www.nature.com/articles/s41587-020-00803-5)
 
 * **Density-Based differential abundance analysis**
-  * **Topics:** Differential abundance analysis via density-dependent downsampling *(Project group signup by March 9)*
+  * **Topics:** Differential abundance analysis via density-dependent downsampling 
   * **Reading:** [Cydar](https://www.nature.com/articles/nmeth.4295)
 
 * **Graph-based differential abundance analysis**
   * **Topics:** Differential abundance analysis 3 (Milo) and contrastive PCA
   * **Reading:** [Milo](https://www.nature.com/articles/s41587-021-01033-z)
 
-* **Dataset Integration**
+* **Correcting for background information via contrastive learning**
   * **Topics:** Contrastive PCA, single-cell dataset integration
   * **Reading:** [Contrastive PCA](https://www.nature.com/articles/s41467-018-04608-8), [Conos](https://www.nature.com/articles/s41592-019-0466-z)
 
