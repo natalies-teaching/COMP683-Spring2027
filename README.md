@@ -100,7 +100,7 @@ Modern high-throughput technologies enable unparalleled molecular insights into 
 ## Theme 4: Spatial Omics & Graph Neural Networks
 * **Spatial Omics Fundamentals**
   * **Topics:** Intro to spatial omics
-  * **Reading:** [LEAPH](https://www.cell.com/cell-reports-methods/pdfExtended/S2667-2375(21)00124-7)
+  * **Reading:** [SpaGCN](https://www.nature.com/articles/s41592-021-01255-8)
 
 * **Graph Neural Networks in Spatial Contexts**
   * **Topics:** Graph neural networks vs. label propagation
