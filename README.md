@@ -89,12 +89,12 @@ Summary of FAQs:
   * **Reading:** [Cell-type-specific aging clocks](https://www.nature.com/articles/s43587-022-00335-4), [Human PBMC aging clock](https://www.science.org/doi/10.1126/sciadv.abq7599)
  
 * **DNA methylation in aging**
-*   **Topics:** DNA methylation in aging and studying cell-type-specific effects
-*   **Reading:** [Long-read age](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.70084)
+  *   **Topics:** DNA methylation in aging and studying cell-type-specific effects
+  *   **Reading:** [Long-read age](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.70084)
  
 * **Cell-cell communication**
-*  **Computational tools for cell-cell communication enrichment**
-*  **Reading:** [LIANA+: consensus tool for cell-cell communication](https://www-nature-com.libproxy.lib.unc.edu/articles/s41556-024-01469-w)
+  *  **Computational tools for cell-cell communication enrichment**
+  *  **Reading:** [LIANA+: consensus tool for cell-cell communication](https://www-nature-com.libproxy.lib.unc.edu/articles/s41556-024-01469-w)
 
 ---
 
