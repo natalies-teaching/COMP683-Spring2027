@@ -141,9 +141,10 @@ Summary of FAQs:
   * **Topics:** Multiomics data integration
   * **Reading:** [MOFA](https://www.embopress.org/doi/full/10.15252/msb.20178124)
 
+<!-- This is a hidden comment and won't render in the output 
 ## Syllabus and Course Structure
 Please see the following link for a syllabus and information about key dates, homework, and the course project. [[Syllabus 2027-coming soon]()]. Note that this is primarily a lecture-based course. 
-<!-- This is a hidden comment and won't render in the output 
+
 # Topics and Tentative Schedule. 
 All topics, readings, homework, and lecture notes can be found here. 
 
@@ -184,13 +185,15 @@ All topics, readings, homework, and lecture notes can be found here.
 | Apr 29 (by noon!) | Monday    | Final project writeups due                                                 | All             |
 # Key Dates and Milestones
 Every year the precise timing of getting through particular topics varies. Here are some general dates to anticipate for assignments. The exact dates will be updated during the semester. 
--->
+
 * Feb 23 : Journal club collaboration 1
 * End of February : Homework 1 due
 * Mid-march : project proposals.
 * April 8: Journal club collaboration 1
 * mid-April : homework 2 due
 * Final exam day (April 29 by noon): Final project writeups due on canvas 
+-->
+
 # Style for parallelized journal club collaboration meetings
 We will discuss two recent, high-impact papers with a journal club style, where the components of the journal club presentation are partitioned across groups of students. Students can sign up for a presenter role and paper for one of the two papers (signup link TBD). Attendance is mandatory for these sessions and your grade for this component will be based on attendance at both sessions and your presentation/participation in one of the presentations. 
 
