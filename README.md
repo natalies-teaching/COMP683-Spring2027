@@ -30,21 +30,19 @@ Modern high-throughput technologies enable unparalleled molecular insights into 
 # Topics and Course Schedule
 
 ## Intro block : Linear algebra fundamentals, building graphs from data, dimension reduction
-* **Introduction & Bioinformatics vs. computational biology & key problems in computational biologyw**
-  * **Topics:** Introduction; bioinformatics vs. computational biology
+* **Introduction & Bioinformatics vs. computational biology & key problems in modern computational biology**
+  * **Topics:** Introduction; bioinformatics vs. computational biology; towards designing immunotherapies 
   * **Reading:** [Brain aging and rejuvenation at single-cell resolution](https://pubmed.ncbi.nlm.nih.gov/39788089/)
 
-* **Linear Algebra & Matrix Fundamentals**
-  * **Topics:** Linear algebra review; matrix rank, SVD, intro to graph representations
+* **Matrix Fundamentals and building graphs from data**
+  * **Topics:** Linear algebra review; matrix rank, SVD, building graphs from data
   * **Reading:** [SLMP (open-source book) pages 10-22](https://arxiv.org/abs/2004.07984)
 
-* **Graph Construction & Diffusion**
-  * **Topics:** Graph diffusion to graph Laplacian, building graphs from data
-  * **Reading:** [Module Detection Benchmarking in Biological Data](https://www.nature.com/articles/s41592-019-0509-5), [Leiden clustering](https://www.nature.com/articles/s41598-019-41695-z)
+* **Graph partitioning (clustering) and computing graph embeddings**
+  * **Topics:** Clustering on a graph, summarizing patterns in graphs via graph embeddings
+  * **Reading:** [Module Detection Benchmarking in Biological Data](https://www.nature.com/articles/s41592-019-0509-5), [Leiden clustering](https://www.nature.com/articles/s41598-019-41695-z), [Node2Vec](https://dl.acm.org/doi/pdf/10.1145/2939672.2939754?casa_token=vQTboPUL6qIAAAAA:XQsAUtXd4MyWfj1ClUBw8FKhuPbpqO-aE2d7EDs5iX9-jJZP9BuxDbKUjg3CM69YKHALjCAKJtJx)
 
-* **Graph Embeddings & Partitioning**
-  * **Topics:** Probabilistic graph partitioning and graph embedding
-  * **Reading:** [Node2Vec](https://dl.acm.org/doi/pdf/10.1145/2939672.2939754?casa_token=vQTboPUL6qIAAAAA:XQsAUtXd4MyWfj1ClUBw8FKhuPbpqO-aE2d7EDs5iX9-jJZP9BuxDbKUjg3CM69YKHALjCAKJtJx)
+
 ---
 
 ## Linking single-cells to outcomes and phenotypes
@@ -71,14 +69,24 @@ Modern high-throughput technologies enable unparalleled molecular insights into 
 * **Single-Cell Sketching & Scalability**
   * **Topics:** Single-cell sketching
   * **Reading:** [GeoSketch](https://www.sciencedirect.com/science/article/pii/S2405471219301528), [Hopper](https://academic.oup.com/bioinformatics/article/36/Supplement_1/i236/5870483)
-
-* **Trajectory Inference**
-  * **Topics:** Mapping trajectories in single-cell data
-  * **Reading:** [Diffusion Maps for Differentiation](https://academic.oup.com/bioinformatics/article/31/18/2989/241305)
+* **Identifying outcome-linked pathways and signatures**
+*  **Topics:** Score cells with enrichment of gene regulatory networks
+*  **Reading:** [Augur](https://www.nature.com/articles/s41587-020-0605-1) and [AUCell](https://www.nature.com/articles/nmeth.4463)
 
 ---
 
-## Theme 3: Differential expression and abundance analysis for single-cell modalities
+## Topics in computational neuroimmunology
+* **Introduction to the immune system in your brain**
+  * **Topics:** Intro to microglia, neuroinflammation, neurodegeneration, and key technologies used to study brain/immune cross-talk
+  * **Reading:** [Boosting peripheral immunity to fight neurodegeneration in the brain](https://www.sciencedirect.com/science/article/pii/S009286741630410X](https://pubmed.ncbi.nlm.nih.gov/39358094/)
+
+* **Cell Population Discovery**
+  * **Topics:** Automated cell population discovery and linking single-cell information to outcome 
+  * **Reading:** [SPADE](https://www.nature.com/articles/nbt.1991), [CITRUS](https://www.pnas.org/doi/abs/10.1073/pnas.1408792111), [PhenoGraph](https://www.sciencedirect.com/science/article/pii/S0092867415006376)
+
+--
+
+## Differential expression and abundance analysis & linking 
 * **Differential Abundance Analysis**
   * **Topics:** Differential abundance analysis via graph signal processing
   * **Reading:** [MELD](https://www.nature.com/articles/s41587-020-00803-5)
@@ -98,13 +106,14 @@ Modern high-throughput technologies enable unparalleled molecular insights into 
 ---
 
 ## Theme 4: Spatial Omics & Graph Neural Networks
+* **Graph Neural Networks in Spatial Contexts**
+  * **Topics:** Graph neural networks vs. label propagation
+  * **Reading:** [Correct and Smooth](https://arxiv.org/abs/2010.13993), [GNN for Spatial Context](https://www.biorxiv.org/content/10.1101/2022.12.08.519537v1)
+
 * **Spatial Omics Fundamentals**
   * **Topics:** Intro to spatial omics
   * **Reading:** [SpaGCN](https://www.nature.com/articles/s41592-021-01255-8)
 
-* **Graph Neural Networks in Spatial Contexts**
-  * **Topics:** Graph neural networks vs. label propagation
-  * **Reading:** [Correct and Smooth](https://arxiv.org/abs/2010.13993), [GNN for Spatial Context](https://www.biorxiv.org/content/10.1101/2022.12.08.519537v1)
 
 ---
 
