@@ -131,8 +131,8 @@ Summary of FAQs:
   * **Reading:** [SpaGCN](https://www.nature.com/articles/s41592-021-01255-8)
 
 * **Paralellized journal club 3: Spatial analyses in brain aging**
-*   **Topics:** Spatial omics in brains and neurodegeneration
-*   **Reading:** [Integrated multiomodal atlas of Alzheimer's disease](https://www.nature.com/articles/s41593-024-01774-5)
+  *   **Topics:** Spatial omics in brains and neurodegeneration
+  *   **Reading:** [Integrated multiomodal atlas of Alzheimer's disease](https://www.nature.com/articles/s41593-024-01774-5)
 
 ---
 
