@@ -29,7 +29,7 @@ Modern high-throughput technologies enable unparalleled molecular insights into 
 
 ## Syllabus and Course Structure
 Please see the following link for a syllabus and information about key dates, homework, and the course project. [[Syllabus 2027-coming soon]()]. Note that this is primarily a lecture-based course. 
-
+<!-- This is a hidden comment and won't render in the output 
 # Topics and Tentative Schedule. 
 All topics, readings, homework, and lecture notes can be found here. 
 
@@ -70,7 +70,7 @@ All topics, readings, homework, and lecture notes can be found here.
 | Apr 29 (by noon!) | Monday    | Final project writeups due                                                 | All             |
 # Key Dates and Milestones
 Every year the precise timing of getting through particular topics varies. Here are some general dates to anticipate for assignments. The exact dates will be updated during the semester. 
-
+-->
 * Feb 23 : Journal club collaboration 1
 * End of February : Homework 1 due
 * Mid-march : project proposals.
