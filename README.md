@@ -84,24 +84,24 @@ Modern high-throughput technologies enable unparalleled molecular insights into 
   * **Topics:** Boosting CD8 T cells for cognitive decline  
   * **Reading:** [Aged circulating CD8+ T cells and their secreted factors drive cognitive decline](https://www.cell.com/immunity/fulltext/S1074-7613(26)00176-7)
 
---
+---
 
-## Differential expression and abundance analysis & linking 
+## Differential expression and abundance analysis & linking genes and cell-type-specific signals to outcomes
 * **Differential Abundance Analysis**
   * **Topics:** Differential abundance analysis via graph signal processing
   * **Reading:** [MELD](https://www.nature.com/articles/s41587-020-00803-5)
 
 * **Density-Based differential abundance analysis**
-  * **Topics:** Differential abundance analysis via density-dependent downsampling 
-  * **Reading:** [Cydar](https://www.nature.com/articles/nmeth.4295)
-
-* **Graph-based differential abundance analysis**
-  * **Topics:** Differential abundance analysis 3 (Milo) and contrastive PCA
+  * **Topics:** Differential abundance analysis on graphs
   * **Reading:** [Milo](https://www.nature.com/articles/s41587-021-01033-z)
 
 * **Correcting for background information via contrastive learning**
   * **Topics:** Contrastive PCA, single-cell dataset integration
   * **Reading:** [Contrastive PCA](https://www.nature.com/articles/s41467-018-04608-8), [Conos](https://www.nature.com/articles/s41592-019-0466-z)
+
+* **Deconvolution for bulk RNA-sequencing : estimating cell-type-specific effects**
+* **Topics:** Deconvolution and tensor component analysis
+* **Reading:** [Unico](https://pubmed.ncbi.nlm.nih.gov/41044605/)
 
 ---
 
