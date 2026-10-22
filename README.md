@@ -29,7 +29,7 @@ Modern high-throughput technologies enable unparalleled molecular insights into 
 
 # Topics and Course Schedule
 
-## Intro block : Linear algebra fundamentals, building graphs from data, dimension reduction
+## Intro block : Linear algebra fundamentals and building graph representations from data
 * **Introduction & Bioinformatics vs. computational biology & key problems in modern computational biology**
   * **Topics:** Introduction; bioinformatics vs. computational biology; towards designing immunotherapies 
   * **Reading:** [Brain aging and rejuvenation at single-cell resolution](https://pubmed.ncbi.nlm.nih.gov/39788089/)
